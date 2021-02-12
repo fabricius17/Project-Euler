@@ -23,8 +23,9 @@
 hs_err_pid*
 
 # netbeans
-/build/
-/nbproject/
-/test/
+/Problem*/build/
+/Problem*/nbproject/
+/Problem*/dist/
+/Problem*/test/
 *.xml
 *.mf
